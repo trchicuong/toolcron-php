@@ -1,11 +1,11 @@
 # TOOL CRON PHP
 
-# Cài đặt
+## Cài đặt
 
 Clone repo `git clone https://github.com/trchicuong/toolcron-php.git`. <br>
 Tải xuống file zip và giải nén
 
-# Sử dụng
+## Sử dụng
 
 Mở màn hình Terminal dùng lệnh `php cron.php` để khởi động tool. <br>
 > **Note**
